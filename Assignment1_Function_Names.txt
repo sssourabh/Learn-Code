@@ -1,0 +1,80 @@
+Assignment 1 Answers -
+
+Ans 1 -
+
+import random
+def roll_dice(sides):
+    randomNumber = random.randint(1, sides)
+    return randomNumber
+
+def main():
+    sides=6
+    keep_rolling=True
+    while keep_rolling:
+        user_input=input("Ready to roll? Enter Q to Quit")
+        if user_input.lower() !="q":
+            numberOfRolls=roll_dice(sides)
+            print("You have rolled a", numberOfRolls)
+        else:
+            keep_rolling=False
+
+Ans 2 -
+
+def isValidNumber(userGuess):
+    if userGuess.isdigit() and 1<= int(userGuess) <=100:
+        return True
+    else:
+        return False
+
+def main():
+    randomNumber=random.randint(1,100)
+    isGameOver=False
+    userGuess=input("Guess a number between 1 and 100:")
+    totalGuesses=0
+    while not isGameOver:
+        if not isValidNumber(userGuess):
+            userGuess=input("I wont count this one Please enter a number between 1 to 100")
+            continue
+        else:
+            totalGuesses+=1
+            userGuess=int(userGuess)
+
+        if userGuess<randomNumber:
+            userGuess=input("Too low. Guess again")
+        elif userGuess>randomNumber:
+            userGuess=input("Too High. Guess again")
+        else:
+            print("You guessed it in",totalGuesses,"guesses!")
+            isGameOver=True
+
+Ans 3 - 
+
+def getArmstrongValue(number):
+    # Initializing Sum and Number of Digits
+    sumOfDigits = 0
+    totalDigits = 0
+
+    # Calculating Number of individual digits
+    temporaryNumber = number
+    while temporaryNumber > 0:
+        totalDigits = totalDigits + 1
+        temporaryNumber = temporaryNumber // 10
+
+    # Finding Armstrong Number
+    temporaryNumber = number
+    for number in range(1, temporaryNumber + 1):
+        remainder = temporaryNumber % 10
+        sumOfDigits = sumOfDigits + (remainder ** totalDigits)
+        temporyNumber //= 10
+    return sumOfDigits
+
+
+# End of Function
+
+# User Input
+number = int(input("\nPlease Enter the Number to Check for Armstrong: "))
+
+if (number == getArmstrongValue(number)):
+    print("\n %d is Armstrong Number.\n" % number)
+else:
+    print("\n %d is Not an Armstrong Number.\n" % number)
