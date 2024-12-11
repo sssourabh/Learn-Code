@@ -1,0 +1,14 @@
+C:\Users\SOURABH.S.M\source\repos\CountryCodes\CountryCodes\bin\Debug\net8.0\CountryCodes.exe
+C:\Users\SOURABH.S.M\source\repos\CountryCodes\CountryCodes\bin\Debug\net8.0\CountryCodes.deps.json
+C:\Users\SOURABH.S.M\source\repos\CountryCodes\CountryCodes\bin\Debug\net8.0\CountryCodes.runtimeconfig.json
+C:\Users\SOURABH.S.M\source\repos\CountryCodes\CountryCodes\bin\Debug\net8.0\CountryCodes.dll
+C:\Users\SOURABH.S.M\source\repos\CountryCodes\CountryCodes\bin\Debug\net8.0\CountryCodes.pdb
+C:\Users\SOURABH.S.M\source\repos\CountryCodes\CountryCodes\obj\Debug\net8.0\CountryCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOURABH.S.M\source\repos\CountryCodes\CountryCodes\obj\Debug\net8.0\CountryCodes.AssemblyInfoInputs.cache
+C:\Users\SOURABH.S.M\source\repos\CountryCodes\CountryCodes\obj\Debug\net8.0\CountryCodes.AssemblyInfo.cs
+C:\Users\SOURABH.S.M\source\repos\CountryCodes\CountryCodes\obj\Debug\net8.0\CountryCodes.csproj.CoreCompileInputs.cache
+C:\Users\SOURABH.S.M\source\repos\CountryCodes\CountryCodes\obj\Debug\net8.0\CountryCodes.dll
+C:\Users\SOURABH.S.M\source\repos\CountryCodes\CountryCodes\obj\Debug\net8.0\refint\CountryCodes.dll
+C:\Users\SOURABH.S.M\source\repos\CountryCodes\CountryCodes\obj\Debug\net8.0\CountryCodes.pdb
+C:\Users\SOURABH.S.M\source\repos\CountryCodes\CountryCodes\obj\Debug\net8.0\CountryCodes.genruntimeconfig.cache
+C:\Users\SOURABH.S.M\source\repos\CountryCodes\CountryCodes\obj\Debug\net8.0\ref\CountryCodes.dll

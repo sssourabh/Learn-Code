@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SOURABH.S.M\\source\\repos\\CountryCodes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8DDFE7-DF21-456E-8AB2-B1A338D03DC8}|CountryCodes\\CountryCodes.csproj|c:\\users\\sourabh.s.m\\source\\repos\\countrycodes\\countrycodes\\countries.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F8DDFE7-DF21-456E-8AB2-B1A338D03DC8}|CountryCodes\\CountryCodes.csproj|solutionrelative:countrycodes\\countries.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8DDFE7-DF21-456E-8AB2-B1A338D03DC8}|CountryCodes\\CountryCodes.csproj|c:\\users\\sourabh.s.m\\source\\repos\\countrycodes\\countrycodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8DDFE7-DF21-456E-8AB2-B1A338D03DC8}|CountryCodes\\CountryCodes.csproj|solutionrelative:countrycodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 324,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "countries.txt",
+              "DocumentMoniker": "C:\\Users\\SOURABH.S.M\\source\\repos\\CountryCodes\\CountryCodes\\countries.txt",
+              "RelativeDocumentMoniker": "CountryCodes\\countries.txt",
+              "ToolTip": "C:\\Users\\SOURABH.S.M\\source\\repos\\CountryCodes\\CountryCodes\\countries.txt",
+              "RelativeToolTip": "CountryCodes\\countries.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-10T09:40:29.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SOURABH.S.M\\source\\repos\\CountryCodes\\CountryCodes\\Program.cs",
+              "RelativeDocumentMoniker": "CountryCodes\\Program.cs",
+              "ToolTip": "C:\\Users\\SOURABH.S.M\\source\\repos\\CountryCodes\\CountryCodes\\Program.cs",
+              "RelativeToolTip": "CountryCodes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:32:37.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

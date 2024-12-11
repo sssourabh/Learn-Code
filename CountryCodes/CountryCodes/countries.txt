@@ -1,0 +1,19 @@
+﻿US,United States,Canada;Mexico
+CA,Canada,United States
+MX,Mexico,United States
+IN,India,Pakistan;China;Nepal;Bangladesh;Bhutan;Myanmar
+CN,China,India;Russia;Mongolia;Nepal;Bhutan;Pakistan
+FR,France,Germany;Belgium;Luxembourg;Switzerland;Italy;Spain
+DE,Germany,France;Netherlands;Belgium;Switzerland;Austria;Poland;Denmark
+BR,Brazil,Argentina;Uruguay;Paraguay;Bolivia;Peru;Colombia;Venezuela;Guyana
+RU,Russia,China;Kazakhstan;Mongolia;Norway;Finland;Ukraine;Poland;Latvia;Estonia;Belarus
+AU,Australia,New Zealand
+NZ,New Zealand,Australia
+JP,Japan,Russia;South Korea
+KR,South Korea,North Korea
+GB,United Kingdom,Ireland
+IE,Ireland,United Kingdom
+SA,Saudi Arabia,Yemen;Oman;UAE;Jordan;Iraq;Kuwait;Qatar;Bahrain
+ZA,South Africa,Namibia;Botswana;Zimbabwe
+NG,Nigeria,Chad;Cameroon
+EG,Egypt,Libya;Sudan;Israel;Palestine
