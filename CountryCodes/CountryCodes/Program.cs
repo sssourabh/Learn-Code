@@ -1,4 +1,4 @@
-﻿namespace CountryCodes
+﻿namespace CountryNeighborFinder
 {
     class Program
     {
